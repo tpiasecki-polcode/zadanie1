@@ -1,0 +1,10 @@
+{
+    "name":"tpiasecki/polish_post_tracking",
+    "require": {
+        "symfony/console":"~2.6",
+        "polish_post_tracking/polish_post_tracking": "dev-master"
+    },
+    "autoload": {
+        "psr-0": {"":"src/"}
+    }
+}
